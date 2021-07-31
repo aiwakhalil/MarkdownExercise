@@ -52,4 +52,4 @@ def calc_distance(a,b):
 ### Results and Recommendations
 :heart_eyes:
 
-$\pi$
+$\hat{Y} = \hat{\beta}_{0} + \sum \limits _{j=l} ^{p} X_{j}\hat{\beta}_{j} $
