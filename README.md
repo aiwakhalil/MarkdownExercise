@@ -17,12 +17,17 @@ Here are my data sources:
 
 #### Data Dictionary
 
+| Column Name | Description |
+| ----------- | ----------- |
+| sepal width | This is the sepal width |
+| Sepal length | This is the sepal length |
+| ----------- | ----------- |
 
 #### Data Processing
 
 What I did to explore data.  
 **Clean data.** <br>
-***Missing data.***
+***Missing data.***   
 test
 
 
