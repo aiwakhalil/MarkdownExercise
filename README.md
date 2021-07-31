@@ -37,6 +37,10 @@ test
 3. Log transform on Z feature
 
 ### Modelling
+```
+def calc_distance(a,b):
+return a+b
+```
 
 ### Model Evalutaion
 
