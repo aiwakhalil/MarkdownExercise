@@ -32,7 +32,7 @@ test
 
 
 ### Features
-1. <span style ="color:red">StandardScaler</span> on X feature
+1. StandardScaler on X feature
 2. MinMax Scaler on y feature
 3. Log transform on Z feature
 
@@ -51,5 +51,3 @@ def calc_distance(a,b):
 
 ### Results and Recommendations
 :heart_eyes:
-
-$ \hat{Y} = \hat{\beta}_{0} + \sum \limits _{j=l} ^{p} X_{j}\hat{\beta}_{j} $
