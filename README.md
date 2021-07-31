@@ -49,5 +49,5 @@ def calc_distance(a,b):
   Details are here!
 </details>
 
-### Results and Recommendations
+### <color><blue>Results and Recommendations</color>
 
