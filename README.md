@@ -32,7 +32,7 @@ test
 
 
 ### Features
-1. StandardScaler on X feature
+1. <span style ="color:red">StandardScaler</span> on X feature
 2. MinMax Scaler on y feature
 3. Log transform on Z feature
 
