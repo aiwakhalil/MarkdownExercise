@@ -50,4 +50,4 @@ def calc_distance(a,b):
 </details>
 
 ### <color><blue>Results and Recommendations</color>
-
+:heart_eyes:
