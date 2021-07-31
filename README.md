@@ -11,7 +11,7 @@ xxxxx
 
 #### Data Source
 Here are my data sources:
-* [flower dara](https://www.bbc.co.uk)
+* [flower data](https://www.bbc.co.uk)
 * XXX data
 * yyy data
 
@@ -27,6 +27,9 @@ test
 
 
 ### Features
+1. StandardScaler on X feature
+2. MinMax Scaler on y feature
+3. Log transform on Z feature
 
 ### Modelling
 
