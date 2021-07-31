@@ -49,5 +49,5 @@ def calc_distance(a,b):
   Details are here!
 </details>
 
-<color><blue>### Results and Recommendations</color>
+### Results and Recommendations<blue></color>
 :heart_eyes:
